@@ -1,0 +1,11 @@
+[
+  {
+    "id": "soc-lab",
+    "title": "SOC Lab Personal",
+    "summary": "Laboratorio personal para detección y monitoreo (SIEM, logs, alertas).",
+    "tech": ["Splunk", "Linux", "Windows", "Networking"],
+    "tags": ["SOC", "Blue Team"],
+    "cover": "",
+    "contentPath": "content/projects/soc-lab.md"
+  }
+]
