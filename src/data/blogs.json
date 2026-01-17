@@ -1,0 +1,10 @@
+[
+  {
+    "id": "primer-post",
+    "title": "Cómo empecé mi camino en Ciberseguridad",
+    "summary": "Mi ruta, herramientas y consejos para principiantes.",
+    "date": "2026-01-17",
+    "tags": ["Carrera", "Aprendizaje"],
+    "contentPath": "content/blogs/primer-post.md"
+  }
+]
